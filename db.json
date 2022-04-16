@@ -1,0 +1,28 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Kolkata",
+      "population": 20000
+    },
+    {
+      "id": 2,
+      "country": "India",
+      "city": "Mumbai",
+      "population": 13000
+    },
+    {
+      "id": 3,
+      "country": "India",
+      "city": "Chennai",
+      "population": 2000
+    },
+    {
+      "id": "4",
+      "country": "Brazil",
+      "city": "Rio",
+      "population": "229994"
+    }
+  ]
+}
